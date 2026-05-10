@@ -612,13 +612,13 @@ Cost: $0
 
 🏢 Professional Edition (Commercial Use)
 
-Cost: $49/year per developer (or $99 for a Lifetime Seat)
+Cost: $29 - One off payment
 
   - Required for any use in a corporate, freelance, or commercial environment.
   - Supports the ongoing "Battle-Data" logic updates to keep up with evolving
     LLM quirks.
   - The Value Prop: If the Patcher saves you just one hour of debugging an AI
-    fumble per year, it has already paid for itself.
+    fumbling per year, it has already paid for itself.
 
 8. Support & Feedback
 
