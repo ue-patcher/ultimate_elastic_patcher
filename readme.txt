@@ -487,7 +487,7 @@ drive.
 
 To install:
 
-1.  Download the ElasticPatcher_v2.12.zip.
+1.  Download the ElasticPatcher.zip.
 2.  Extract the contents to a folder on your drive (e.g.,
     C:\Tools\ElasticPatcher).
 3.  Run elastic_patcher.exe.
